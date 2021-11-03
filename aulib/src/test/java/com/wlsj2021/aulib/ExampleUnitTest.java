@@ -1,4 +1,4 @@
-package com.wlsj2021.a2021;
+package com.wlsj2021.aulib;
 
 import org.junit.Test;
 

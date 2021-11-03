@@ -1,4 +1,4 @@
-package com.wlsj2021.a2021;
+package com.wlsj2021.aulib;
 
 import android.content.Context;
 
@@ -21,6 +21,6 @@ public class ExampleInstrumentedTest {
     public void useAppContext() {
         // Context of the app under test.
         Context appContext = InstrumentationRegistry.getInstrumentation().getTargetContext();
-        assertEquals("com.wlsj2021.a2021.test", appContext.getPackageName());
+        assertEquals("com.wlsj2021.aulib.test", appContext.getPackageName());
     }
 }
